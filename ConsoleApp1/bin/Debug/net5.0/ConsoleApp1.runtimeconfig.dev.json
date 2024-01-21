@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\medoh\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\medoh\\.nuget\\packages"
+    ]
+  }
+}

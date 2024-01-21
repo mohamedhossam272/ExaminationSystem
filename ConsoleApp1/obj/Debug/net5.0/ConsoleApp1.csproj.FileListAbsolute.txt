@@ -1,0 +1,16 @@
+D:\backend ,net\Exams\Exam 02\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\backend ,net\Exams\Exam 02\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\backend ,net\Exams\Exam 02\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\backend ,net\Exams\Exam 02\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\backend ,net\Exams\Exam 02\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\backend ,net\Exams\Exam 02\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\backend ,net\Exams\Exam 02\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\backend ,net\Exams\Exam 02\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend ,net\Exams\Exam 02\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\backend ,net\Exams\Exam 02\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\backend ,net\Exams\Exam 02\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\backend ,net\Exams\Exam 02\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\backend ,net\Exams\Exam 02\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+D:\backend ,net\Exams\Exam 02\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\backend ,net\Exams\Exam 02\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+D:\backend ,net\Exams\Exam 02\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
